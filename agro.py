@@ -24,7 +24,7 @@ import os
 
 def fnt_limpiar():
     os.system('cls')
-    print('Autor: Bilgier Perea A.')
+    print('Autor: domini steven varelas palacios.')
     print('Fecha: 25 de abril del 2024\n')
 
 def fnt_registrar(nombre, ancho, largo, tipo_lote):
